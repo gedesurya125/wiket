@@ -23,7 +23,7 @@ const Title = ({sxProp}:TitleProps) => {
       <h1
         sx={{
           fontFamily: "SpoofTrial-Bold",
-          fontSize: ["54px", null, null, "98px"],
+          fontSize: ["54px", null, "70px", "98px"],
           fontWeight: "bolder",
           lineHeight: "100%",
           marginTop: '0px'
