@@ -71,7 +71,7 @@ const NavBar = () => {
               </NavLink>
             ))}
           </Flex>
-          <Button sx={{ fontFamily: "Faible-Bold", borderRadius: "8px" }}>
+          <Button sx={{ fontFamily: "Faible-Bold", borderRadius: "8px", ml: "17px" }}>
             Get Started
           </Button>
           <IconButton
